@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lihofmann
+- 👀 I’m interested in how humans use information from multiple sources to understand language meaning.
+- 🌱 I’m currently learning how to handle the administrative issues I need to get done in order to receive my degree and get my life in order.
+- 💞️ I’m looking to collaborate on experiments, projects addressing interpretation and/or processing of anaphora.
+- 📫 How to reach me: Email lihofman AT ucsc.edu
